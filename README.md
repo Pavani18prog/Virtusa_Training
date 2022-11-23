@@ -1,7 +1,7 @@
 # Virtusa_Training
-The Java consists of Simple Chatbot as mini project and some basic programs.
+The Java folder consists of Simple Chatbot as mini project and some basic programs.
 
-•   Brick Game
+•       Brick Game
 •	Books Ordering
 •	Button Demo Using Applet
 •	Distance Calculations
