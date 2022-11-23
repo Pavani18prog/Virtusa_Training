@@ -1,8 +1,8 @@
 # Virtusa_Training
 The Java consists of Simple Chatbot as mini project and some basic programs.
 
-•	Brick Game
-•	Books order
+•   Brick Game
+•	Books Ordering
 •	Button Demo Using Applet
 •	Distance Calculations
 •	Example on Exceptions
